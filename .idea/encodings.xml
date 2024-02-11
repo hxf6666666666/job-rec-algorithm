@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/公司名称.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/城市.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/学历要求.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/技能.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/是否实习.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/知识.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/素养.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/职位类别.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/薪资.csv" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
